@@ -1,0 +1,501 @@
+Shipment_ID,Shipment_type,Shipment_description,Shipment_date,Shipment_status,Staff_ID,Product_line_number
+SHP000001,Express,Bulk shipment of electronics products,2022-11-03,Delivered,STF000290,PLN048766
+SHP000002,Same-Day,Bulk shipment of electronics products,2024-01-15,In Transit,STF000201,PLN019699
+SHP000003,Same-Day,Bulk shipment of electronics products,2024-03-31,Delivered,STF000213,PLN031047
+SHP000004,Economy,Bulk shipment of electronics products,2023-11-08,In Transit,STF000177,PLN024325
+SHP000005,Economy,Bulk shipment of electronics products,2022-02-06,In Transit,STF000120,PLN025147
+SHP000006,Express,Bulk shipment of electronics products,2022-10-16,Delivered,STF000117,PLN035471
+SHP000007,Freight,Bulk shipment of electronics products,2025-11-08,In Transit,STF000123,PLN047729
+SHP000008,Standard,Bulk shipment of electronics products,2025-02-15,Pending,STF000124,PLN039684
+SHP000009,Express,Bulk shipment of electronics products,2025-03-01,In Transit,STF000293,PLN001526
+SHP000010,Overnight,Bulk shipment of electronics products,2023-07-31,In Transit,STF000075,PLN012862
+SHP000011,Same-Day,Bulk shipment of electronics products,2025-10-18,Pending,STF000029,PLN036995
+SHP000012,Express,Bulk shipment of electronics products,2025-02-21,In Transit,STF000044,PLN037128
+SHP000013,Standard,Bulk shipment of electronics products,2025-01-27,Delivered,STF000267,PLN019990
+SHP000014,Freight,Bulk shipment of electronics products,2023-10-28,Delivered,STF000137,PLN025507
+SHP000015,Economy,Bulk shipment of electronics products,2025-03-26,Returned,STF000272,PLN013532
+SHP000016,Economy,Bulk shipment of electronics products,2024-09-15,Delivered,STF000221,PLN034962
+SHP000017,Freight,Bulk shipment of electronics products,2022-01-30,Delivered,STF000207,PLN011747
+SHP000018,Freight,Bulk shipment of electronics products,2024-08-01,In Transit,STF000009,PLN039810
+SHP000019,Economy,Bulk shipment of electronics products,2022-08-30,Delivered,STF000099,PLN043497
+SHP000020,Overnight,Bulk shipment of electronics products,2023-08-26,Delivered,STF000212,PLN003919
+SHP000021,Overnight,Bulk shipment of electronics products,2023-08-25,Delivered,STF000235,PLN042113
+SHP000022,Economy,Bulk shipment of electronics products,2022-09-16,Delivered,STF000293,PLN021343
+SHP000023,Standard,Bulk shipment of electronics products,2023-06-06,In Transit,STF000213,PLN014907
+SHP000024,Same-Day,Bulk shipment of electronics products,2025-08-24,In Transit,STF000122,PLN027044
+SHP000025,Overnight,Bulk shipment of electronics products,2024-03-26,Delivered,STF000063,PLN048216
+SHP000026,Freight,Bulk shipment of electronics products,2022-01-05,Pending,STF000086,PLN047160
+SHP000027,Standard,Bulk shipment of electronics products,2022-07-18,Delivered,STF000264,PLN041868
+SHP000028,Express,Bulk shipment of electronics products,2024-02-19,In Transit,STF000256,PLN011328
+SHP000029,Freight,Bulk shipment of electronics products,2022-05-17,In Transit,STF000190,PLN017836
+SHP000030,Same-Day,Bulk shipment of electronics products,2022-07-31,Delivered,STF000096,PLN004375
+SHP000031,Overnight,Bulk shipment of electronics products,2022-06-03,Delivered,STF000133,PLN027933
+SHP000032,Overnight,Bulk shipment of electronics products,2024-03-19,Delivered,STF000089,PLN034962
+SHP000033,Standard,Bulk shipment of electronics products,2022-07-15,Delivered,STF000092,PLN032989
+SHP000034,Economy,Bulk shipment of electronics products,2022-11-15,Delivered,STF000137,PLN046963
+SHP000035,Same-Day,Bulk shipment of electronics products,2023-11-03,Returned,STF000211,PLN045574
+SHP000036,Standard,Bulk shipment of electronics products,2024-12-13,Delivered,STF000278,PLN018795
+SHP000037,Economy,Bulk shipment of electronics products,2025-07-19,Cancelled,STF000012,PLN020914
+SHP000038,Same-Day,Bulk shipment of electronics products,2024-06-30,In Transit,STF000267,PLN032504
+SHP000039,Freight,Bulk shipment of electronics products,2024-05-23,Delivered,STF000261,PLN023300
+SHP000040,Overnight,Bulk shipment of electronics products,2023-10-28,Delivered,STF000033,PLN013643
+SHP000041,Overnight,Bulk shipment of electronics products,2024-03-14,Cancelled,STF000072,PLN010747
+SHP000042,Same-Day,Bulk shipment of electronics products,2023-05-11,Delivered,STF000280,PLN019765
+SHP000043,Standard,Bulk shipment of electronics products,2023-09-05,Delivered,STF000072,PLN020599
+SHP000044,Standard,Bulk shipment of electronics products,2022-09-16,Returned,STF000037,PLN006502
+SHP000045,Freight,Bulk shipment of electronics products,2025-05-27,Delivered,STF000214,PLN042389
+SHP000046,Overnight,Bulk shipment of electronics products,2025-07-23,Delivered,STF000276,PLN016501
+SHP000047,Freight,Bulk shipment of electronics products,2022-05-17,Delivered,STF000095,PLN016272
+SHP000048,Economy,Bulk shipment of electronics products,2025-07-05,Cancelled,STF000184,PLN010381
+SHP000049,Express,Bulk shipment of electronics products,2025-09-11,Cancelled,STF000078,PLN030787
+SHP000050,Overnight,Bulk shipment of electronics products,2023-01-16,In Transit,STF000218,PLN041785
+SHP000051,Same-Day,Bulk shipment of electronics products,2022-01-15,In Transit,STF000270,PLN032379
+SHP000052,Economy,Bulk shipment of electronics products,2022-06-27,Delivered,STF000011,PLN009338
+SHP000053,Express,Bulk shipment of electronics products,2024-07-27,Delivered,STF000179,PLN019598
+SHP000054,Economy,Bulk shipment of electronics products,2023-03-10,In Transit,STF000074,PLN037236
+SHP000055,Economy,Bulk shipment of electronics products,2024-03-10,In Transit,STF000223,PLN037861
+SHP000056,Overnight,Bulk shipment of electronics products,2022-12-01,Delivered,STF000026,PLN042040
+SHP000057,Standard,Bulk shipment of electronics products,2022-11-08,Delivered,STF000253,PLN034371
+SHP000058,Freight,Bulk shipment of electronics products,2023-10-05,Delivered,STF000260,PLN028450
+SHP000059,Economy,Bulk shipment of electronics products,2025-06-26,Delivered,STF000210,PLN001605
+SHP000060,Express,Bulk shipment of electronics products,2022-03-25,Delivered,STF000191,PLN037737
+SHP000061,Economy,Bulk shipment of electronics products,2022-09-27,Delivered,STF000296,PLN013778
+SHP000062,Freight,Bulk shipment of electronics products,2023-04-02,Delivered,STF000082,PLN010624
+SHP000063,Economy,Bulk shipment of electronics products,2022-09-20,Delivered,STF000266,PLN037716
+SHP000064,Overnight,Bulk shipment of electronics products,2022-01-27,Delivered,STF000178,PLN019404
+SHP000065,Standard,Bulk shipment of electronics products,2025-11-30,Delivered,STF000158,PLN045189
+SHP000066,Same-Day,Bulk shipment of electronics products,2024-11-18,Delivered,STF000270,PLN009795
+SHP000067,Same-Day,Bulk shipment of electronics products,2024-04-11,Delivered,STF000011,PLN038017
+SHP000068,Overnight,Bulk shipment of electronics products,2024-05-27,Delivered,STF000264,PLN030742
+SHP000069,Overnight,Bulk shipment of electronics products,2024-02-06,Delivered,STF000227,PLN018610
+SHP000070,Standard,Bulk shipment of electronics products,2023-05-02,Delivered,STF000281,PLN040752
+SHP000071,Same-Day,Bulk shipment of electronics products,2024-07-14,Delivered,STF000100,PLN030142
+SHP000072,Overnight,Bulk shipment of electronics products,2022-02-27,Delivered,STF000086,PLN022827
+SHP000073,Standard,Bulk shipment of electronics products,2024-07-19,Delivered,STF000039,PLN014968
+SHP000074,Freight,Bulk shipment of electronics products,2024-10-08,Delivered,STF000189,PLN036583
+SHP000075,Standard,Bulk shipment of electronics products,2023-12-21,In Transit,STF000033,PLN024084
+SHP000076,Freight,Bulk shipment of electronics products,2022-02-22,Delivered,STF000172,PLN049277
+SHP000077,Standard,Bulk shipment of electronics products,2022-01-17,Delivered,STF000095,PLN049687
+SHP000078,Freight,Bulk shipment of electronics products,2023-07-29,Delivered,STF000024,PLN043992
+SHP000079,Freight,Bulk shipment of electronics products,2023-11-25,Delivered,STF000061,PLN047353
+SHP000080,Freight,Bulk shipment of electronics products,2024-12-01,Delivered,STF000020,PLN018634
+SHP000081,Economy,Bulk shipment of electronics products,2023-08-16,Returned,STF000058,PLN010336
+SHP000082,Freight,Bulk shipment of electronics products,2023-06-13,Delivered,STF000092,PLN042564
+SHP000083,Standard,Bulk shipment of electronics products,2024-09-13,Pending,STF000113,PLN000537
+SHP000084,Standard,Bulk shipment of electronics products,2025-06-06,Delivered,STF000185,PLN007419
+SHP000085,Same-Day,Bulk shipment of electronics products,2024-07-08,Delivered,STF000099,PLN032957
+SHP000086,Overnight,Bulk shipment of electronics products,2022-07-23,Returned,STF000272,PLN010896
+SHP000087,Same-Day,Bulk shipment of electronics products,2025-02-01,Pending,STF000027,PLN022630
+SHP000088,Express,Bulk shipment of electronics products,2024-07-07,In Transit,STF000032,PLN022782
+SHP000089,Economy,Bulk shipment of electronics products,2025-05-28,In Transit,STF000257,PLN013121
+SHP000090,Freight,Bulk shipment of electronics products,2023-04-24,Delivered,STF000200,PLN015857
+SHP000091,Freight,Bulk shipment of electronics products,2024-05-13,Delivered,STF000134,PLN000223
+SHP000092,Freight,Bulk shipment of electronics products,2025-08-05,In Transit,STF000105,PLN009678
+SHP000093,Economy,Bulk shipment of electronics products,2025-07-24,In Transit,STF000150,PLN046702
+SHP000094,Same-Day,Bulk shipment of electronics products,2024-04-21,Delivered,STF000012,PLN007245
+SHP000095,Economy,Bulk shipment of electronics products,2022-02-22,Delivered,STF000036,PLN030449
+SHP000096,Standard,Bulk shipment of electronics products,2022-07-12,Delivered,STF000295,PLN047296
+SHP000097,Overnight,Bulk shipment of electronics products,2024-03-27,Delivered,STF000082,PLN007274
+SHP000098,Freight,Bulk shipment of electronics products,2024-09-06,Delivered,STF000114,PLN040741
+SHP000099,Freight,Bulk shipment of electronics products,2022-02-08,Delivered,STF000098,PLN024554
+SHP000100,Freight,Bulk shipment of electronics products,2024-10-03,Delivered,STF000096,PLN029374
+SHP000101,Economy,Bulk shipment of electronics products,2022-03-11,In Transit,STF000052,PLN047039
+SHP000102,Economy,Bulk shipment of electronics products,2025-08-03,Delivered,STF000053,PLN001246
+SHP000103,Freight,Bulk shipment of electronics products,2024-10-27,Delivered,STF000063,PLN018646
+SHP000104,Overnight,Bulk shipment of electronics products,2025-02-13,Delivered,STF000145,PLN034636
+SHP000105,Same-Day,Bulk shipment of electronics products,2023-06-05,In Transit,STF000133,PLN013890
+SHP000106,Same-Day,Bulk shipment of electronics products,2023-07-16,Delivered,STF000028,PLN002902
+SHP000107,Express,Bulk shipment of electronics products,2025-07-22,Delivered,STF000240,PLN008865
+SHP000108,Overnight,Bulk shipment of electronics products,2022-05-20,In Transit,STF000181,PLN047244
+SHP000109,Freight,Bulk shipment of electronics products,2023-05-21,Delivered,STF000190,PLN020330
+SHP000110,Standard,Bulk shipment of electronics products,2022-06-30,In Transit,STF000138,PLN006346
+SHP000111,Standard,Bulk shipment of electronics products,2023-04-03,Cancelled,STF000278,PLN044395
+SHP000112,Standard,Bulk shipment of electronics products,2023-04-16,Delivered,STF000156,PLN013300
+SHP000113,Economy,Bulk shipment of electronics products,2025-08-07,Delivered,STF000204,PLN021435
+SHP000114,Economy,Bulk shipment of electronics products,2025-07-06,Delivered,STF000293,PLN020923
+SHP000115,Overnight,Bulk shipment of electronics products,2023-07-22,In Transit,STF000143,PLN036761
+SHP000116,Economy,Bulk shipment of electronics products,2022-04-22,Delivered,STF000248,PLN026734
+SHP000117,Overnight,Bulk shipment of electronics products,2023-10-22,Delivered,STF000276,PLN010523
+SHP000118,Overnight,Bulk shipment of electronics products,2025-05-27,Delivered,STF000139,PLN005295
+SHP000119,Freight,Bulk shipment of electronics products,2022-12-20,Delivered,STF000292,PLN000657
+SHP000120,Express,Bulk shipment of electronics products,2024-07-31,Delivered,STF000159,PLN028092
+SHP000121,Freight,Bulk shipment of electronics products,2024-03-21,In Transit,STF000207,PLN024489
+SHP000122,Overnight,Bulk shipment of electronics products,2024-03-08,Pending,STF000197,PLN039521
+SHP000123,Overnight,Bulk shipment of electronics products,2024-08-27,Delivered,STF000145,PLN016971
+SHP000124,Standard,Bulk shipment of electronics products,2023-03-12,Delivered,STF000185,PLN001199
+SHP000125,Express,Bulk shipment of electronics products,2025-01-07,Delivered,STF000204,PLN014689
+SHP000126,Standard,Bulk shipment of electronics products,2022-05-06,Delivered,STF000183,PLN039743
+SHP000127,Economy,Bulk shipment of electronics products,2022-08-24,Delivered,STF000282,PLN009134
+SHP000128,Freight,Bulk shipment of electronics products,2023-09-30,In Transit,STF000010,PLN007989
+SHP000129,Express,Bulk shipment of electronics products,2024-02-06,Delivered,STF000176,PLN027968
+SHP000130,Standard,Bulk shipment of electronics products,2023-08-05,Delivered,STF000191,PLN030786
+SHP000131,Overnight,Bulk shipment of electronics products,2022-05-21,Delivered,STF000151,PLN018574
+SHP000132,Standard,Bulk shipment of electronics products,2025-07-02,Delivered,STF000038,PLN035381
+SHP000133,Freight,Bulk shipment of electronics products,2024-06-13,Returned,STF000232,PLN036016
+SHP000134,Standard,Bulk shipment of electronics products,2022-04-27,Delivered,STF000017,PLN041723
+SHP000135,Express,Bulk shipment of electronics products,2025-01-13,In Transit,STF000098,PLN008543
+SHP000136,Overnight,Bulk shipment of electronics products,2023-11-30,Delivered,STF000035,PLN021929
+SHP000137,Standard,Bulk shipment of electronics products,2025-02-03,Delivered,STF000075,PLN045157
+SHP000138,Overnight,Bulk shipment of electronics products,2025-10-07,Delivered,STF000163,PLN004629
+SHP000139,Same-Day,Bulk shipment of electronics products,2024-04-22,In Transit,STF000192,PLN044333
+SHP000140,Overnight,Bulk shipment of electronics products,2024-01-02,Returned,STF000246,PLN017591
+SHP000141,Economy,Bulk shipment of electronics products,2024-10-22,Delivered,STF000059,PLN015184
+SHP000142,Standard,Bulk shipment of electronics products,2022-11-01,Delivered,STF000062,PLN001070
+SHP000143,Standard,Bulk shipment of electronics products,2023-03-19,In Transit,STF000082,PLN017396
+SHP000144,Express,Bulk shipment of electronics products,2024-07-21,Delivered,STF000290,PLN015363
+SHP000145,Same-Day,Bulk shipment of electronics products,2022-09-08,In Transit,STF000129,PLN019129
+SHP000146,Standard,Bulk shipment of electronics products,2024-04-07,Delivered,STF000238,PLN035123
+SHP000147,Same-Day,Bulk shipment of electronics products,2022-03-23,Delivered,STF000121,PLN047589
+SHP000148,Standard,Bulk shipment of electronics products,2022-09-25,Pending,STF000106,PLN020595
+SHP000149,Economy,Bulk shipment of electronics products,2023-11-28,In Transit,STF000095,PLN049377
+SHP000150,Overnight,Bulk shipment of electronics products,2023-12-25,Delivered,STF000026,PLN022353
+SHP000151,Same-Day,Bulk shipment of electronics products,2024-04-09,Delivered,STF000255,PLN029545
+SHP000152,Overnight,Bulk shipment of electronics products,2025-04-18,Pending,STF000099,PLN034357
+SHP000153,Economy,Bulk shipment of electronics products,2025-02-02,Delivered,STF000158,PLN031002
+SHP000154,Economy,Bulk shipment of electronics products,2022-07-28,Delivered,STF000097,PLN016596
+SHP000155,Same-Day,Bulk shipment of electronics products,2025-10-02,Returned,STF000205,PLN043169
+SHP000156,Same-Day,Bulk shipment of electronics products,2022-10-28,Delivered,STF000270,PLN027867
+SHP000157,Standard,Bulk shipment of electronics products,2024-11-06,Delivered,STF000290,PLN028027
+SHP000158,Overnight,Bulk shipment of electronics products,2025-02-14,Delivered,STF000229,PLN009566
+SHP000159,Overnight,Bulk shipment of electronics products,2024-12-02,Delivered,STF000032,PLN044450
+SHP000160,Same-Day,Bulk shipment of electronics products,2024-08-25,In Transit,STF000189,PLN033659
+SHP000161,Economy,Bulk shipment of electronics products,2024-10-21,In Transit,STF000261,PLN023403
+SHP000162,Same-Day,Bulk shipment of electronics products,2023-08-25,Returned,STF000079,PLN007792
+SHP000163,Economy,Bulk shipment of electronics products,2024-08-01,Delivered,STF000184,PLN036103
+SHP000164,Same-Day,Bulk shipment of electronics products,2022-08-16,Delivered,STF000204,PLN040748
+SHP000165,Same-Day,Bulk shipment of electronics products,2025-09-11,Delivered,STF000169,PLN044118
+SHP000166,Express,Bulk shipment of electronics products,2025-11-04,Returned,STF000258,PLN029723
+SHP000167,Economy,Bulk shipment of electronics products,2024-01-04,Delivered,STF000239,PLN039991
+SHP000168,Economy,Bulk shipment of electronics products,2022-10-31,Delivered,STF000105,PLN021068
+SHP000169,Freight,Bulk shipment of electronics products,2023-08-30,Delivered,STF000156,PLN022805
+SHP000170,Freight,Bulk shipment of electronics products,2025-03-20,Returned,STF000191,PLN020389
+SHP000171,Standard,Bulk shipment of electronics products,2024-03-07,Returned,STF000258,PLN009382
+SHP000172,Express,Bulk shipment of electronics products,2024-07-18,Delivered,STF000066,PLN036498
+SHP000173,Same-Day,Bulk shipment of electronics products,2023-11-23,In Transit,STF000046,PLN035198
+SHP000174,Same-Day,Bulk shipment of electronics products,2022-05-24,Delivered,STF000257,PLN007146
+SHP000175,Standard,Bulk shipment of electronics products,2025-08-30,In Transit,STF000165,PLN047197
+SHP000176,Same-Day,Bulk shipment of electronics products,2023-08-12,Delivered,STF000048,PLN009020
+SHP000177,Freight,Bulk shipment of electronics products,2024-08-17,Delivered,STF000256,PLN047374
+SHP000178,Express,Bulk shipment of electronics products,2023-11-22,In Transit,STF000286,PLN049724
+SHP000179,Express,Bulk shipment of electronics products,2025-03-04,Delivered,STF000065,PLN022280
+SHP000180,Express,Bulk shipment of electronics products,2025-04-25,In Transit,STF000008,PLN030355
+SHP000181,Express,Bulk shipment of electronics products,2024-02-05,Delivered,STF000082,PLN045917
+SHP000182,Overnight,Bulk shipment of electronics products,2025-05-19,In Transit,STF000171,PLN014424
+SHP000183,Economy,Bulk shipment of electronics products,2024-10-23,Cancelled,STF000270,PLN018029
+SHP000184,Freight,Bulk shipment of electronics products,2022-06-23,Delivered,STF000093,PLN035043
+SHP000185,Express,Bulk shipment of electronics products,2025-03-08,Delivered,STF000206,PLN016855
+SHP000186,Overnight,Bulk shipment of electronics products,2023-07-24,Pending,STF000041,PLN033774
+SHP000187,Standard,Bulk shipment of electronics products,2024-06-03,In Transit,STF000168,PLN014364
+SHP000188,Standard,Bulk shipment of electronics products,2025-01-09,In Transit,STF000181,PLN046038
+SHP000189,Express,Bulk shipment of electronics products,2025-05-01,Delivered,STF000044,PLN046204
+SHP000190,Economy,Bulk shipment of electronics products,2024-03-15,Delivered,STF000142,PLN021700
+SHP000191,Freight,Bulk shipment of electronics products,2025-07-10,Delivered,STF000052,PLN002937
+SHP000192,Freight,Bulk shipment of electronics products,2023-06-18,Delivered,STF000116,PLN015463
+SHP000193,Economy,Bulk shipment of electronics products,2025-02-02,Delivered,STF000281,PLN013190
+SHP000194,Express,Bulk shipment of electronics products,2024-01-13,Pending,STF000011,PLN044980
+SHP000195,Same-Day,Bulk shipment of electronics products,2024-02-15,Delivered,STF000299,PLN047140
+SHP000196,Same-Day,Bulk shipment of electronics products,2024-11-19,Delivered,STF000145,PLN008664
+SHP000197,Freight,Bulk shipment of electronics products,2025-03-09,Delivered,STF000154,PLN020240
+SHP000198,Standard,Bulk shipment of electronics products,2022-04-20,In Transit,STF000193,PLN008198
+SHP000199,Same-Day,Bulk shipment of electronics products,2022-06-05,Delivered,STF000159,PLN008823
+SHP000200,Freight,Bulk shipment of electronics products,2024-08-07,Delivered,STF000144,PLN043745
+SHP000201,Standard,Bulk shipment of electronics products,2022-08-14,Delivered,STF000280,PLN028872
+SHP000202,Overnight,Bulk shipment of electronics products,2022-12-20,In Transit,STF000148,PLN028269
+SHP000203,Same-Day,Bulk shipment of electronics products,2023-09-29,Delivered,STF000298,PLN021080
+SHP000204,Express,Bulk shipment of electronics products,2022-10-04,Delivered,STF000205,PLN019220
+SHP000205,Same-Day,Bulk shipment of electronics products,2023-02-18,Delivered,STF000106,PLN037641
+SHP000206,Overnight,Bulk shipment of electronics products,2025-08-10,Delivered,STF000089,PLN024228
+SHP000207,Standard,Bulk shipment of electronics products,2024-12-18,In Transit,STF000296,PLN044709
+SHP000208,Same-Day,Bulk shipment of electronics products,2022-03-04,Delivered,STF000135,PLN031272
+SHP000209,Economy,Bulk shipment of electronics products,2022-04-21,In Transit,STF000144,PLN015442
+SHP000210,Express,Bulk shipment of electronics products,2024-01-19,Delivered,STF000132,PLN014564
+SHP000211,Same-Day,Bulk shipment of electronics products,2024-04-14,Delivered,STF000144,PLN018741
+SHP000212,Express,Bulk shipment of electronics products,2022-06-02,Delivered,STF000188,PLN031200
+SHP000213,Standard,Bulk shipment of electronics products,2024-02-26,Delivered,STF000296,PLN030204
+SHP000214,Economy,Bulk shipment of electronics products,2025-01-03,Delivered,STF000047,PLN042868
+SHP000215,Same-Day,Bulk shipment of electronics products,2022-07-06,Delivered,STF000203,PLN011499
+SHP000216,Express,Bulk shipment of electronics products,2022-04-27,In Transit,STF000019,PLN018724
+SHP000217,Standard,Bulk shipment of electronics products,2024-02-23,Delivered,STF000218,PLN009860
+SHP000218,Same-Day,Bulk shipment of electronics products,2025-03-27,In Transit,STF000187,PLN011697
+SHP000219,Economy,Bulk shipment of electronics products,2023-01-31,Returned,STF000256,PLN030946
+SHP000220,Overnight,Bulk shipment of electronics products,2025-04-07,Delivered,STF000222,PLN036784
+SHP000221,Freight,Bulk shipment of electronics products,2025-03-16,Returned,STF000146,PLN025697
+SHP000222,Same-Day,Bulk shipment of electronics products,2023-04-13,Delivered,STF000027,PLN018484
+SHP000223,Overnight,Bulk shipment of electronics products,2024-05-03,In Transit,STF000183,PLN025370
+SHP000224,Freight,Bulk shipment of electronics products,2025-06-12,Pending,STF000213,PLN037220
+SHP000225,Freight,Bulk shipment of electronics products,2025-03-26,Returned,STF000015,PLN010183
+SHP000226,Express,Bulk shipment of electronics products,2025-03-17,Delivered,STF000059,PLN007201
+SHP000227,Standard,Bulk shipment of electronics products,2023-01-06,Delivered,STF000170,PLN005067
+SHP000228,Overnight,Bulk shipment of electronics products,2025-09-11,Returned,STF000006,PLN036200
+SHP000229,Overnight,Bulk shipment of electronics products,2022-05-17,In Transit,STF000252,PLN040143
+SHP000230,Express,Bulk shipment of electronics products,2025-08-22,Delivered,STF000209,PLN005051
+SHP000231,Same-Day,Bulk shipment of electronics products,2025-11-30,Pending,STF000214,PLN016123
+SHP000232,Standard,Bulk shipment of electronics products,2022-02-07,Delivered,STF000205,PLN034034
+SHP000233,Express,Bulk shipment of electronics products,2023-10-13,In Transit,STF000224,PLN028038
+SHP000234,Overnight,Bulk shipment of electronics products,2022-05-29,In Transit,STF000282,PLN031581
+SHP000235,Express,Bulk shipment of electronics products,2024-06-30,Delivered,STF000015,PLN021358
+SHP000236,Same-Day,Bulk shipment of electronics products,2023-01-24,Delivered,STF000001,PLN023125
+SHP000237,Standard,Bulk shipment of electronics products,2025-04-14,Returned,STF000017,PLN031047
+SHP000238,Economy,Bulk shipment of electronics products,2025-09-05,Pending,STF000269,PLN024078
+SHP000239,Overnight,Bulk shipment of electronics products,2022-09-03,In Transit,STF000044,PLN036330
+SHP000240,Same-Day,Bulk shipment of electronics products,2024-03-30,Delivered,STF000275,PLN035249
+SHP000241,Economy,Bulk shipment of electronics products,2023-10-22,Delivered,STF000299,PLN007987
+SHP000242,Same-Day,Bulk shipment of electronics products,2025-06-03,Delivered,STF000141,PLN010817
+SHP000243,Express,Bulk shipment of electronics products,2024-03-24,Delivered,STF000172,PLN042847
+SHP000244,Economy,Bulk shipment of electronics products,2025-10-23,Delivered,STF000134,PLN035598
+SHP000245,Economy,Bulk shipment of electronics products,2024-01-10,In Transit,STF000212,PLN014935
+SHP000246,Same-Day,Bulk shipment of electronics products,2024-02-10,Delivered,STF000079,PLN019517
+SHP000247,Standard,Bulk shipment of electronics products,2022-12-26,Delivered,STF000106,PLN029672
+SHP000248,Express,Bulk shipment of electronics products,2023-12-22,Returned,STF000039,PLN013863
+SHP000249,Economy,Bulk shipment of electronics products,2022-11-13,Delivered,STF000190,PLN014051
+SHP000250,Standard,Bulk shipment of electronics products,2022-06-16,Delivered,STF000140,PLN023518
+SHP000251,Express,Bulk shipment of electronics products,2022-06-04,Delivered,STF000179,PLN001273
+SHP000252,Overnight,Bulk shipment of electronics products,2022-08-05,Delivered,STF000035,PLN039045
+SHP000253,Same-Day,Bulk shipment of electronics products,2022-05-02,Delivered,STF000188,PLN017503
+SHP000254,Express,Bulk shipment of electronics products,2025-07-05,Delivered,STF000041,PLN037860
+SHP000255,Economy,Bulk shipment of electronics products,2023-11-07,Returned,STF000112,PLN045102
+SHP000256,Freight,Bulk shipment of electronics products,2022-02-24,Pending,STF000072,PLN000746
+SHP000257,Standard,Bulk shipment of electronics products,2025-12-22,Delivered,STF000229,PLN042372
+SHP000258,Overnight,Bulk shipment of electronics products,2025-02-19,In Transit,STF000036,PLN029721
+SHP000259,Standard,Bulk shipment of electronics products,2024-03-11,In Transit,STF000257,PLN007221
+SHP000260,Freight,Bulk shipment of electronics products,2022-04-04,Delivered,STF000054,PLN035972
+SHP000261,Express,Bulk shipment of electronics products,2024-09-01,Delivered,STF000009,PLN001969
+SHP000262,Economy,Bulk shipment of electronics products,2022-07-10,Delivered,STF000182,PLN045186
+SHP000263,Economy,Bulk shipment of electronics products,2022-01-30,In Transit,STF000189,PLN007809
+SHP000264,Freight,Bulk shipment of electronics products,2023-08-14,Delivered,STF000070,PLN045246
+SHP000265,Same-Day,Bulk shipment of electronics products,2025-08-22,Cancelled,STF000098,PLN016745
+SHP000266,Overnight,Bulk shipment of electronics products,2024-11-19,In Transit,STF000103,PLN031202
+SHP000267,Same-Day,Bulk shipment of electronics products,2022-10-07,Delivered,STF000151,PLN003438
+SHP000268,Freight,Bulk shipment of electronics products,2024-01-17,Delivered,STF000202,PLN016307
+SHP000269,Express,Bulk shipment of electronics products,2025-04-28,Delivered,STF000124,PLN004873
+SHP000270,Express,Bulk shipment of electronics products,2024-10-16,Delivered,STF000290,PLN003847
+SHP000271,Freight,Bulk shipment of electronics products,2023-12-16,Delivered,STF000107,PLN042275
+SHP000272,Same-Day,Bulk shipment of electronics products,2022-04-15,Delivered,STF000011,PLN029285
+SHP000273,Express,Bulk shipment of electronics products,2024-09-12,Delivered,STF000142,PLN022014
+SHP000274,Same-Day,Bulk shipment of electronics products,2024-09-07,Delivered,STF000030,PLN045630
+SHP000275,Standard,Bulk shipment of electronics products,2025-06-07,Delivered,STF000296,PLN049692
+SHP000276,Freight,Bulk shipment of electronics products,2022-12-14,Delivered,STF000104,PLN045276
+SHP000277,Economy,Bulk shipment of electronics products,2024-08-15,Pending,STF000258,PLN031880
+SHP000278,Express,Bulk shipment of electronics products,2024-02-03,Delivered,STF000015,PLN002514
+SHP000279,Economy,Bulk shipment of electronics products,2024-04-05,Delivered,STF000072,PLN027575
+SHP000280,Freight,Bulk shipment of electronics products,2024-11-16,In Transit,STF000126,PLN010361
+SHP000281,Express,Bulk shipment of electronics products,2022-03-10,Returned,STF000264,PLN009392
+SHP000282,Freight,Bulk shipment of electronics products,2024-02-07,Delivered,STF000034,PLN044806
+SHP000283,Overnight,Bulk shipment of electronics products,2024-08-17,Pending,STF000228,PLN024309
+SHP000284,Standard,Bulk shipment of electronics products,2025-07-26,In Transit,STF000031,PLN018211
+SHP000285,Freight,Bulk shipment of electronics products,2023-11-04,Delivered,STF000297,PLN038328
+SHP000286,Standard,Bulk shipment of electronics products,2022-04-27,Delivered,STF000236,PLN035224
+SHP000287,Overnight,Bulk shipment of electronics products,2024-04-10,Delivered,STF000247,PLN009218
+SHP000288,Same-Day,Bulk shipment of electronics products,2023-06-03,In Transit,STF000259,PLN018223
+SHP000289,Standard,Bulk shipment of electronics products,2022-12-08,Delivered,STF000123,PLN030242
+SHP000290,Freight,Bulk shipment of electronics products,2025-10-29,In Transit,STF000223,PLN043752
+SHP000291,Standard,Bulk shipment of electronics products,2024-01-21,In Transit,STF000067,PLN018034
+SHP000292,Freight,Bulk shipment of electronics products,2025-09-06,Delivered,STF000219,PLN042648
+SHP000293,Freight,Bulk shipment of electronics products,2023-01-01,Delivered,STF000087,PLN036349
+SHP000294,Freight,Bulk shipment of electronics products,2025-01-04,In Transit,STF000212,PLN021615
+SHP000295,Economy,Bulk shipment of electronics products,2024-03-10,Delivered,STF000090,PLN043370
+SHP000296,Overnight,Bulk shipment of electronics products,2024-01-21,Delivered,STF000150,PLN042492
+SHP000297,Overnight,Bulk shipment of electronics products,2024-12-28,Delivered,STF000236,PLN004977
+SHP000298,Freight,Bulk shipment of electronics products,2022-06-01,Delivered,STF000040,PLN003768
+SHP000299,Express,Bulk shipment of electronics products,2022-02-18,Delivered,STF000168,PLN011271
+SHP000300,Economy,Bulk shipment of electronics products,2023-08-12,Delivered,STF000045,PLN011494
+SHP000301,Same-Day,Bulk shipment of electronics products,2024-03-17,Returned,STF000165,PLN042219
+SHP000302,Economy,Bulk shipment of electronics products,2024-01-24,In Transit,STF000087,PLN038136
+SHP000303,Express,Bulk shipment of electronics products,2023-05-28,Delivered,STF000061,PLN044551
+SHP000304,Economy,Bulk shipment of electronics products,2023-05-23,Delivered,STF000026,PLN039658
+SHP000305,Freight,Bulk shipment of electronics products,2024-02-18,Delivered,STF000165,PLN028819
+SHP000306,Freight,Bulk shipment of electronics products,2024-05-25,Pending,STF000221,PLN045168
+SHP000307,Overnight,Bulk shipment of electronics products,2023-09-23,Delivered,STF000293,PLN024368
+SHP000308,Standard,Bulk shipment of electronics products,2025-10-13,Delivered,STF000139,PLN036971
+SHP000309,Same-Day,Bulk shipment of electronics products,2024-08-03,Delivered,STF000173,PLN002809
+SHP000310,Standard,Bulk shipment of electronics products,2022-07-15,Delivered,STF000194,PLN017394
+SHP000311,Same-Day,Bulk shipment of electronics products,2023-06-02,Delivered,STF000273,PLN047468
+SHP000312,Express,Bulk shipment of electronics products,2024-11-03,Delivered,STF000130,PLN006941
+SHP000313,Standard,Bulk shipment of electronics products,2025-05-11,Delivered,STF000295,PLN008674
+SHP000314,Economy,Bulk shipment of electronics products,2024-04-15,Delivered,STF000113,PLN026721
+SHP000315,Standard,Bulk shipment of electronics products,2024-06-20,Delivered,STF000038,PLN040182
+SHP000316,Economy,Bulk shipment of electronics products,2023-07-26,Delivered,STF000108,PLN021083
+SHP000317,Economy,Bulk shipment of electronics products,2022-12-26,Delivered,STF000010,PLN038433
+SHP000318,Economy,Bulk shipment of electronics products,2024-09-25,Delivered,STF000195,PLN031534
+SHP000319,Freight,Bulk shipment of electronics products,2024-12-30,Delivered,STF000178,PLN036316
+SHP000320,Standard,Bulk shipment of electronics products,2022-09-23,Delivered,STF000063,PLN023174
+SHP000321,Freight,Bulk shipment of electronics products,2022-10-15,Delivered,STF000299,PLN024097
+SHP000322,Express,Bulk shipment of electronics products,2023-02-02,Returned,STF000162,PLN018496
+SHP000323,Overnight,Bulk shipment of electronics products,2022-09-11,Delivered,STF000067,PLN015572
+SHP000324,Same-Day,Bulk shipment of electronics products,2025-07-17,Delivered,STF000117,PLN001074
+SHP000325,Overnight,Bulk shipment of electronics products,2023-09-04,In Transit,STF000064,PLN028228
+SHP000326,Express,Bulk shipment of electronics products,2022-01-17,Delivered,STF000011,PLN036492
+SHP000327,Overnight,Bulk shipment of electronics products,2025-01-09,Pending,STF000105,PLN015994
+SHP000328,Standard,Bulk shipment of electronics products,2025-05-09,In Transit,STF000001,PLN047260
+SHP000329,Overnight,Bulk shipment of electronics products,2022-01-07,Delivered,STF000080,PLN036061
+SHP000330,Overnight,Bulk shipment of electronics products,2023-08-13,Delivered,STF000177,PLN001058
+SHP000331,Overnight,Bulk shipment of electronics products,2025-06-24,Pending,STF000167,PLN036931
+SHP000332,Economy,Bulk shipment of electronics products,2025-06-15,In Transit,STF000070,PLN012956
+SHP000333,Standard,Bulk shipment of electronics products,2022-02-19,Delivered,STF000027,PLN009261
+SHP000334,Express,Bulk shipment of electronics products,2022-11-06,In Transit,STF000228,PLN009075
+SHP000335,Freight,Bulk shipment of electronics products,2025-11-30,Delivered,STF000113,PLN039825
+SHP000336,Overnight,Bulk shipment of electronics products,2024-08-25,Delivered,STF000274,PLN044589
+SHP000337,Same-Day,Bulk shipment of electronics products,2023-10-11,Delivered,STF000084,PLN030725
+SHP000338,Freight,Bulk shipment of electronics products,2023-04-13,Delivered,STF000229,PLN001285
+SHP000339,Freight,Bulk shipment of electronics products,2024-03-11,Returned,STF000181,PLN033665
+SHP000340,Overnight,Bulk shipment of electronics products,2022-03-11,In Transit,STF000289,PLN000021
+SHP000341,Freight,Bulk shipment of electronics products,2022-10-23,In Transit,STF000043,PLN033102
+SHP000342,Same-Day,Bulk shipment of electronics products,2022-09-23,In Transit,STF000056,PLN020021
+SHP000343,Economy,Bulk shipment of electronics products,2023-01-24,Delivered,STF000126,PLN026459
+SHP000344,Overnight,Bulk shipment of electronics products,2024-11-15,Delivered,STF000136,PLN025290
+SHP000345,Economy,Bulk shipment of electronics products,2023-09-02,Returned,STF000264,PLN016855
+SHP000346,Economy,Bulk shipment of electronics products,2022-12-19,Pending,STF000074,PLN040471
+SHP000347,Economy,Bulk shipment of electronics products,2022-09-05,Delivered,STF000090,PLN000837
+SHP000348,Overnight,Bulk shipment of electronics products,2023-01-08,In Transit,STF000056,PLN025206
+SHP000349,Same-Day,Bulk shipment of electronics products,2025-04-25,Delivered,STF000070,PLN026863
+SHP000350,Overnight,Bulk shipment of electronics products,2023-08-25,Delivered,STF000073,PLN015857
+SHP000351,Overnight,Bulk shipment of electronics products,2024-11-29,In Transit,STF000210,PLN034458
+SHP000352,Express,Bulk shipment of electronics products,2024-04-21,Delivered,STF000018,PLN035190
+SHP000353,Same-Day,Bulk shipment of electronics products,2025-09-09,Delivered,STF000225,PLN041247
+SHP000354,Same-Day,Bulk shipment of electronics products,2024-06-14,Delivered,STF000203,PLN010940
+SHP000355,Standard,Bulk shipment of electronics products,2022-06-17,Delivered,STF000273,PLN010401
+SHP000356,Freight,Bulk shipment of electronics products,2023-09-29,Cancelled,STF000172,PLN035262
+SHP000357,Same-Day,Bulk shipment of electronics products,2024-01-23,Delivered,STF000270,PLN013940
+SHP000358,Express,Bulk shipment of electronics products,2022-12-09,Delivered,STF000105,PLN044089
+SHP000359,Express,Bulk shipment of electronics products,2024-11-02,In Transit,STF000061,PLN040430
+SHP000360,Same-Day,Bulk shipment of electronics products,2023-08-25,Returned,STF000061,PLN032676
+SHP000361,Express,Bulk shipment of electronics products,2023-07-06,Delivered,STF000169,PLN009101
+SHP000362,Express,Bulk shipment of electronics products,2024-07-08,Delivered,STF000052,PLN007866
+SHP000363,Overnight,Bulk shipment of electronics products,2022-08-10,In Transit,STF000180,PLN032620
+SHP000364,Standard,Bulk shipment of electronics products,2024-10-28,Cancelled,STF000223,PLN041255
+SHP000365,Express,Bulk shipment of electronics products,2022-07-23,Delivered,STF000201,PLN029003
+SHP000366,Overnight,Bulk shipment of electronics products,2025-12-30,Delivered,STF000079,PLN007642
+SHP000367,Freight,Bulk shipment of electronics products,2024-11-10,Delivered,STF000151,PLN049402
+SHP000368,Freight,Bulk shipment of electronics products,2023-07-23,Returned,STF000073,PLN027163
+SHP000369,Standard,Bulk shipment of electronics products,2022-12-06,Delivered,STF000212,PLN025287
+SHP000370,Economy,Bulk shipment of electronics products,2025-08-21,Delivered,STF000221,PLN037479
+SHP000371,Overnight,Bulk shipment of electronics products,2022-10-08,Delivered,STF000284,PLN033269
+SHP000372,Express,Bulk shipment of electronics products,2025-03-27,Delivered,STF000073,PLN013436
+SHP000373,Standard,Bulk shipment of electronics products,2024-12-28,Pending,STF000160,PLN026235
+SHP000374,Economy,Bulk shipment of electronics products,2022-11-28,Delivered,STF000289,PLN029422
+SHP000375,Express,Bulk shipment of electronics products,2024-02-29,In Transit,STF000037,PLN014547
+SHP000376,Standard,Bulk shipment of electronics products,2025-10-13,In Transit,STF000125,PLN040177
+SHP000377,Standard,Bulk shipment of electronics products,2023-01-15,Delivered,STF000086,PLN041623
+SHP000378,Same-Day,Bulk shipment of electronics products,2022-03-21,Delivered,STF000229,PLN012733
+SHP000379,Same-Day,Bulk shipment of electronics products,2022-05-02,Delivered,STF000074,PLN045443
+SHP000380,Same-Day,Bulk shipment of electronics products,2023-08-28,Pending,STF000055,PLN029960
+SHP000381,Standard,Bulk shipment of electronics products,2025-01-02,In Transit,STF000066,PLN005545
+SHP000382,Freight,Bulk shipment of electronics products,2024-11-16,Delivered,STF000283,PLN027485
+SHP000383,Standard,Bulk shipment of electronics products,2024-07-24,Delivered,STF000116,PLN014486
+SHP000384,Economy,Bulk shipment of electronics products,2023-01-22,Pending,STF000055,PLN023901
+SHP000385,Freight,Bulk shipment of electronics products,2022-01-25,Delivered,STF000144,PLN043273
+SHP000386,Express,Bulk shipment of electronics products,2025-07-10,In Transit,STF000181,PLN011288
+SHP000387,Overnight,Bulk shipment of electronics products,2024-07-05,Delivered,STF000146,PLN025006
+SHP000388,Overnight,Bulk shipment of electronics products,2022-01-10,Delivered,STF000067,PLN006910
+SHP000389,Freight,Bulk shipment of electronics products,2025-11-22,In Transit,STF000181,PLN048986
+SHP000390,Standard,Bulk shipment of electronics products,2023-08-03,Delivered,STF000240,PLN012141
+SHP000391,Economy,Bulk shipment of electronics products,2024-04-22,Returned,STF000152,PLN033084
+SHP000392,Overnight,Bulk shipment of electronics products,2024-05-11,Delivered,STF000257,PLN012077
+SHP000393,Freight,Bulk shipment of electronics products,2023-08-22,Delivered,STF000143,PLN004372
+SHP000394,Standard,Bulk shipment of electronics products,2024-07-26,Delivered,STF000089,PLN029874
+SHP000395,Economy,Bulk shipment of electronics products,2024-03-19,Cancelled,STF000270,PLN028747
+SHP000396,Freight,Bulk shipment of electronics products,2024-08-15,Delivered,STF000029,PLN008654
+SHP000397,Same-Day,Bulk shipment of electronics products,2024-01-06,In Transit,STF000026,PLN020584
+SHP000398,Economy,Bulk shipment of electronics products,2025-02-11,Returned,STF000210,PLN006591
+SHP000399,Standard,Bulk shipment of electronics products,2024-05-18,Delivered,STF000069,PLN025201
+SHP000400,Freight,Bulk shipment of electronics products,2025-03-02,In Transit,STF000055,PLN029517
+SHP000401,Overnight,Bulk shipment of electronics products,2023-10-29,Delivered,STF000125,PLN011503
+SHP000402,Economy,Bulk shipment of electronics products,2025-12-07,Delivered,STF000218,PLN039452
+SHP000403,Same-Day,Bulk shipment of electronics products,2023-01-24,Delivered,STF000022,PLN023971
+SHP000404,Same-Day,Bulk shipment of electronics products,2023-06-23,Delivered,STF000292,PLN032375
+SHP000405,Express,Bulk shipment of electronics products,2025-11-10,Delivered,STF000257,PLN028338
+SHP000406,Express,Bulk shipment of electronics products,2022-02-28,Delivered,STF000194,PLN042069
+SHP000407,Overnight,Bulk shipment of electronics products,2025-05-06,Delivered,STF000293,PLN012265
+SHP000408,Standard,Bulk shipment of electronics products,2023-06-03,In Transit,STF000182,PLN046444
+SHP000409,Freight,Bulk shipment of electronics products,2022-04-25,In Transit,STF000298,PLN005030
+SHP000410,Standard,Bulk shipment of electronics products,2025-07-27,Delivered,STF000233,PLN002991
+SHP000411,Overnight,Bulk shipment of electronics products,2022-03-04,Delivered,STF000245,PLN033063
+SHP000412,Standard,Bulk shipment of electronics products,2022-11-23,In Transit,STF000052,PLN031351
+SHP000413,Standard,Bulk shipment of electronics products,2025-11-10,Delivered,STF000197,PLN013410
+SHP000414,Freight,Bulk shipment of electronics products,2022-08-26,Delivered,STF000117,PLN044480
+SHP000415,Express,Bulk shipment of electronics products,2024-01-27,Delivered,STF000061,PLN007099
+SHP000416,Standard,Bulk shipment of electronics products,2024-11-25,Delivered,STF000031,PLN017147
+SHP000417,Same-Day,Bulk shipment of electronics products,2022-02-21,In Transit,STF000182,PLN031794
+SHP000418,Economy,Bulk shipment of electronics products,2024-10-22,Delivered,STF000285,PLN030020
+SHP000419,Standard,Bulk shipment of electronics products,2022-02-08,Delivered,STF000142,PLN038071
+SHP000420,Economy,Bulk shipment of electronics products,2024-03-25,Delivered,STF000135,PLN049880
+SHP000421,Same-Day,Bulk shipment of electronics products,2023-04-07,Delivered,STF000261,PLN005894
+SHP000422,Same-Day,Bulk shipment of electronics products,2023-02-05,In Transit,STF000239,PLN028496
+SHP000423,Economy,Bulk shipment of electronics products,2022-12-31,Delivered,STF000221,PLN022570
+SHP000424,Freight,Bulk shipment of electronics products,2022-07-26,Delivered,STF000151,PLN015451
+SHP000425,Standard,Bulk shipment of electronics products,2023-09-09,In Transit,STF000017,PLN029637
+SHP000426,Standard,Bulk shipment of electronics products,2025-10-13,Delivered,STF000066,PLN021708
+SHP000427,Freight,Bulk shipment of electronics products,2025-10-08,Delivered,STF000256,PLN004493
+SHP000428,Freight,Bulk shipment of electronics products,2022-09-29,Delivered,STF000007,PLN049239
+SHP000429,Express,Bulk shipment of electronics products,2023-07-14,Returned,STF000288,PLN019460
+SHP000430,Standard,Bulk shipment of electronics products,2024-05-09,In Transit,STF000293,PLN012042
+SHP000431,Same-Day,Bulk shipment of electronics products,2024-03-30,In Transit,STF000009,PLN010230
+SHP000432,Same-Day,Bulk shipment of electronics products,2022-03-20,Delivered,STF000112,PLN049098
+SHP000433,Overnight,Bulk shipment of electronics products,2022-04-11,Delivered,STF000185,PLN041066
+SHP000434,Overnight,Bulk shipment of electronics products,2022-09-25,Delivered,STF000011,PLN008932
+SHP000435,Economy,Bulk shipment of electronics products,2022-04-28,Delivered,STF000210,PLN034340
+SHP000436,Same-Day,Bulk shipment of electronics products,2022-10-19,Delivered,STF000252,PLN038552
+SHP000437,Express,Bulk shipment of electronics products,2022-01-18,Delivered,STF000061,PLN000700
+SHP000438,Freight,Bulk shipment of electronics products,2025-10-09,Delivered,STF000229,PLN023340
+SHP000439,Overnight,Bulk shipment of electronics products,2023-12-10,Delivered,STF000117,PLN024481
+SHP000440,Economy,Bulk shipment of electronics products,2022-01-04,Pending,STF000228,PLN003227
+SHP000441,Same-Day,Bulk shipment of electronics products,2025-05-23,Delivered,STF000078,PLN038034
+SHP000442,Overnight,Bulk shipment of electronics products,2023-02-27,Delivered,STF000117,PLN045457
+SHP000443,Standard,Bulk shipment of electronics products,2023-07-29,In Transit,STF000232,PLN008540
+SHP000444,Same-Day,Bulk shipment of electronics products,2022-12-07,Delivered,STF000167,PLN001043
+SHP000445,Standard,Bulk shipment of electronics products,2022-06-30,Returned,STF000020,PLN034748
+SHP000446,Economy,Bulk shipment of electronics products,2024-02-23,Delivered,STF000273,PLN046721
+SHP000447,Express,Bulk shipment of electronics products,2025-05-04,Delivered,STF000159,PLN006998
+SHP000448,Freight,Bulk shipment of electronics products,2022-03-14,Delivered,STF000209,PLN023420
+SHP000449,Standard,Bulk shipment of electronics products,2022-12-01,In Transit,STF000099,PLN039387
+SHP000450,Express,Bulk shipment of electronics products,2025-08-19,In Transit,STF000116,PLN000133
+SHP000451,Economy,Bulk shipment of electronics products,2024-08-16,Delivered,STF000165,PLN035275
+SHP000452,Overnight,Bulk shipment of electronics products,2025-03-27,Delivered,STF000240,PLN020706
+SHP000453,Standard,Bulk shipment of electronics products,2025-03-08,Delivered,STF000196,PLN033137
+SHP000454,Freight,Bulk shipment of electronics products,2025-07-04,Delivered,STF000054,PLN049764
+SHP000455,Same-Day,Bulk shipment of electronics products,2024-01-15,Pending,STF000111,PLN021471
+SHP000456,Economy,Bulk shipment of electronics products,2024-11-14,In Transit,STF000025,PLN026176
+SHP000457,Overnight,Bulk shipment of electronics products,2025-10-06,Pending,STF000165,PLN040855
+SHP000458,Standard,Bulk shipment of electronics products,2022-05-14,Delivered,STF000243,PLN017469
+SHP000459,Freight,Bulk shipment of electronics products,2025-11-09,Cancelled,STF000175,PLN019363
+SHP000460,Freight,Bulk shipment of electronics products,2023-08-16,Delivered,STF000168,PLN014188
+SHP000461,Freight,Bulk shipment of electronics products,2024-03-07,Delivered,STF000135,PLN016147
+SHP000462,Standard,Bulk shipment of electronics products,2025-10-26,Delivered,STF000285,PLN030770
+SHP000463,Overnight,Bulk shipment of electronics products,2025-07-26,Delivered,STF000221,PLN039476
+SHP000464,Economy,Bulk shipment of electronics products,2023-08-17,Delivered,STF000104,PLN030938
+SHP000465,Overnight,Bulk shipment of electronics products,2023-01-31,Delivered,STF000064,PLN035824
+SHP000466,Freight,Bulk shipment of electronics products,2022-10-26,Pending,STF000235,PLN028452
+SHP000467,Standard,Bulk shipment of electronics products,2022-04-10,Pending,STF000101,PLN003040
+SHP000468,Overnight,Bulk shipment of electronics products,2022-01-21,Delivered,STF000240,PLN029485
+SHP000469,Freight,Bulk shipment of electronics products,2025-02-20,Delivered,STF000024,PLN031310
+SHP000470,Overnight,Bulk shipment of electronics products,2022-04-01,Delivered,STF000056,PLN033933
+SHP000471,Freight,Bulk shipment of electronics products,2024-07-10,Pending,STF000173,PLN002842
+SHP000472,Express,Bulk shipment of electronics products,2024-07-19,Cancelled,STF000129,PLN019079
+SHP000473,Economy,Bulk shipment of electronics products,2023-04-16,Delivered,STF000070,PLN049140
+SHP000474,Overnight,Bulk shipment of electronics products,2022-11-12,Delivered,STF000228,PLN001533
+SHP000475,Economy,Bulk shipment of electronics products,2023-06-11,Delivered,STF000001,PLN025699
+SHP000476,Overnight,Bulk shipment of electronics products,2022-12-31,Delivered,STF000038,PLN002155
+SHP000477,Economy,Bulk shipment of electronics products,2024-11-11,Delivered,STF000106,PLN025223
+SHP000478,Express,Bulk shipment of electronics products,2023-02-14,In Transit,STF000146,PLN042709
+SHP000479,Freight,Bulk shipment of electronics products,2023-07-23,Delivered,STF000132,PLN044576
+SHP000480,Same-Day,Bulk shipment of electronics products,2023-12-10,Delivered,STF000078,PLN043297
+SHP000481,Freight,Bulk shipment of electronics products,2025-04-29,Returned,STF000033,PLN045988
+SHP000482,Overnight,Bulk shipment of electronics products,2022-05-17,Delivered,STF000190,PLN039950
+SHP000483,Overnight,Bulk shipment of electronics products,2022-03-23,Returned,STF000009,PLN015540
+SHP000484,Same-Day,Bulk shipment of electronics products,2022-01-21,In Transit,STF000133,PLN001085
+SHP000485,Freight,Bulk shipment of electronics products,2023-07-07,In Transit,STF000158,PLN012611
+SHP000486,Economy,Bulk shipment of electronics products,2022-05-22,Delivered,STF000279,PLN032633
+SHP000487,Express,Bulk shipment of electronics products,2025-05-02,Delivered,STF000150,PLN010829
+SHP000488,Express,Bulk shipment of electronics products,2025-06-18,Returned,STF000290,PLN020951
+SHP000489,Overnight,Bulk shipment of electronics products,2023-05-10,Delivered,STF000070,PLN028612
+SHP000490,Economy,Bulk shipment of electronics products,2025-10-03,Delivered,STF000155,PLN049275
+SHP000491,Standard,Bulk shipment of electronics products,2024-03-31,Delivered,STF000196,PLN037247
+SHP000492,Freight,Bulk shipment of electronics products,2024-05-22,Pending,STF000044,PLN045381
+SHP000493,Same-Day,Bulk shipment of electronics products,2024-07-17,Delivered,STF000168,PLN038487
+SHP000494,Standard,Bulk shipment of electronics products,2023-08-20,Delivered,STF000026,PLN030581
+SHP000495,Same-Day,Bulk shipment of electronics products,2025-04-25,In Transit,STF000013,PLN046295
+SHP000496,Express,Bulk shipment of electronics products,2024-12-07,Delivered,STF000220,PLN030694
+SHP000497,Standard,Bulk shipment of electronics products,2022-04-01,Delivered,STF000138,PLN044243
+SHP000498,Freight,Bulk shipment of electronics products,2025-07-24,Delivered,STF000137,PLN049157
+SHP000499,Freight,Bulk shipment of electronics products,2023-08-03,Delivered,STF000117,PLN034170
+SHP000500,Freight,Bulk shipment of electronics products,2022-03-14,Delivered,STF000132,PLN028851

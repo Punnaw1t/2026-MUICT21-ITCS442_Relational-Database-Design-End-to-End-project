@@ -1,0 +1,21 @@
+Branch_ID,Branch_Name,Branch_Address,Branch_PhoneNumber,OperatingHours,Staff_ID
+BRN000001,Central World,"4 Ratchadamri Rd, Pathum Wan, Bangkok",026649968,10:00-22:00,STF000066
+BRN000002,The Mall Ngamwongwan,"30/39 Ngamwongwan Rd, Nonthaburi",027320310,09:00-21:00,STF000270
+BRN000003,Siam Paragon,"991 Rama I Rd, Pathum Wan, Bangkok",023722056,09:00-21:00,STF000048
+BRN000004,IconSiam,"299 Charoennakorn Rd, Khlong San, Bangkok",023777286,09:00-21:00,STF000217
+BRN000005,Terminal 21,"2 Sukhumvit Rd, Khlong Toei, Bangkok",021733037,08:00-20:00,STF000261
+BRN000006,Central Festival Phuket,"74-75 Moo 5, Vichit, Phuket",027111929,08:00-20:00,STF000186
+BRN000007,Central Plaza Chiang Mai,"252 Moo 2, Chang Phueak, Chiang Mai",028452417,09:00-21:00,STF000010
+BRN000008,Market Village HHK,"182 Moo 7, Hua Hin, Prachuap Khiri Khan",028531761,10:00-21:00,STF000159
+BRN000009,CentralPlaza Rama 2,"128 Rama II Rd, Bang Khun Thian, Bangkok",029959220,09:00-21:00,STF000093
+BRN000010,Mega Bangna,"39 Moo 6, Bang Na, Samut Prakan",026192009,09:00-21:00,STF000110
+BRN000011,Future Park Rangsit,"94 Phahon Yothin Rd, Pathum Thani",024255051,08:00-20:00,STF000175
+BRN000012,CentralPlaza Westgate,"199 Moo 2, Bang Yai, Nonthaburi",028391997,10:00-21:00,STF000249
+BRN000013,Robinson Ratchaphruek,"142 Ratchaphruek Rd, Taling Chan, Bangkok",025727345,08:00-20:00,STF000099
+BRN000014,Central Chiangrai,"99 Superhighway Rd, Mueang, Chiang Rai",029437374,08:00-20:00,STF000116
+BRN000015,CentralPlaza Lampang,"252 Moo 10, Suan Dok, Lampang",023718884,08:00-20:00,STF000071
+BRN000016,CentralFestival EastVille,"152 Ramintra Rd, Khannayao, Bangkok",023321942,09:00-21:00,STF000080
+BRN000017,The Mall Tha Phra,"99 Ratchadaphisek Rd, Thon Buri, Bangkok",021875431,10:00-21:00,STF000040
+BRN000018,Lotus's Pinklao,"80 Boromarajonani Rd, Bangkok",027227905,08:00-20:00,STF000152
+BRN000019,CentralPlaza Udon Thani,"277 Prajak Sillapakom Rd, Udon Thani",029655523,10:00-22:00,STF000052
+BRN000020,Central Khon Kaen,"99 Moo 16, Srichan Rd, Khon Kaen",025782563,10:00-22:00,STF000260
